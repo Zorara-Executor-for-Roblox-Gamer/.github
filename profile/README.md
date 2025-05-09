@@ -14,3 +14,15 @@ Zorara Executor is a powerful tool designed for Roblox enthusiasts who want to r
 * **Secure & Safe**: Designed with user security in mind. 
 
 ---
+
+## 🖥️ System Requirements
+
+Before diving in, ensure your system meets the following requirements:
+
+* **Operating System**: Windows 10 or Windows 11 (64-bit)
+* **Processor**: 1.6 GHz or better
+* **RAM**: At least 1 GB
+* **Graphics**: DirectX 10 compatible
+* **Storage**: Minimum 20 MB free space 
+
+These specs ensure smooth operation and optimal performance while using Zorara Executor.
